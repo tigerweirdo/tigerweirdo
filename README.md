@@ -1,6 +1,6 @@
 # Hi, I'm Temmuz
 
-Full-stack developer and creative technologist based in Berlin. I build independent projects under the **tigerweirdo** name.
+Full-stack developer and creative technologist based in Berlin, with a background in sociology. I build independent projects under the **tigerweirdo** name.
 
 ## What I work with
 
@@ -11,8 +11,8 @@ Full-stack developer and creative technologist based in Berlin. I build independ
 
 ## Selected work
 
-- [Sitemendo](https://github.com/tigerweirdo/sitemendo): landing page for a site audit and repair service
-- [Portfolio](https://github.com/tigerweirdo/react-portfolio)
-- [Country Explorer](https://github.com/tigerweirdo/konzek-junior-assignement): GraphQL-powered country search
+- [Sitemendo](https://sitemendo.com): a repair shop for websites ([source](https://github.com/tigerweirdo/sitemendo))
+- [Nowhere](https://www.nowhereapp.io): a social app that wants you to leave
+- Hoodoo: guitar pickguards for a gallery wall
 
-I also study at Humboldt University, with a background in sociology.
+More at [tigerweirdo.com](https://tigerweirdo.com) · hello@tigerweirdo.com
