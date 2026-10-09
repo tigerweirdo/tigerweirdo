@@ -1,18 +1,23 @@
-# Hi, I'm Temmuz
+# Hi, I'm Mete Han (Temmuz) Çetiner
 
-Full-stack developer and creative technologist based in Berlin, with a background in sociology. I build independent projects under the **tigerweirdo** name.
+Creative developer based in Berlin, with a background in sociology. I build web products with motion and 3D, and the automation behind them. Independent projects ship under the **tigerweirdo** name.
 
 ## What I work with
 
-- **Frontend:** React, Next.js, TypeScript, Vite
+- **Frontend:** React, Next.js, TypeScript, Vite, Tailwind
+- **Motion & 3D:** GSAP/ScrollTrigger, Framer Motion, Three.js, React Three Fiber, WebGL/GLSL
 - **Backend:** Firebase, Supabase, FastAPI
 - **Mobile:** Capacitor for iOS
-- **Creative coding:** generative art, WebGL/GLSL shaders, net art
+- **Automation & AI:** n8n, LLM APIs, GitHub Actions, Cloudflare Workers
 
 ## Selected work
 
-- [Sitemendo](https://sitemendo.com): a repair shop for websites ([source](https://github.com/tigerweirdo/sitemendo))
-- [Nowhere](https://www.nowhereapp.io): a social app that wants you to leave
-- Hoodoo: guitar pickguards for a gallery wall
+- [Nowhere](https://nowhereapp.io): a location-based social app that wants you to leave, live on the App Store. Co-founder and lead developer.
+- [Pairo](https://getpairo.app): a couples PWA whose palette shifts through the year, driven by an OKLCH seasonal colour engine.
+- [HOODOO](https://wearehoodoo.com): guitar pickguards for a gallery wall, with a React Three Fiber 3D configurator.
+- [FORM/FORM](https://www.instagram.com/formformstudio): a self-learning generative video system that renders, publishes and scores its own work twice a day.
+- [SITEMENDO](https://sitemendo.com): a repair shop for websites ([source](https://github.com/tigerweirdo/sitemendo)).
 
-More at [tigerweirdo.com](https://tigerweirdo.com) · hello@tigerweirdo.com
+Open to freelance work with agencies and teams, remote or in Berlin.
+
+More at [tigerweirdo.com](https://tigerweirdo.com) · [LinkedIn](https://www.linkedin.com/in/tigerweirdo/) · [Malt](https://www.malt.de/profile/metehancetiner) · hello@tigerweirdo.com
