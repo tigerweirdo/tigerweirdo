@@ -15,7 +15,7 @@ Creative developer based in Berlin, with a background in sociology. I build web 
 - [Nowhere](https://nowhereapp.io): a location-based social app that wants you to leave, live on the App Store. Co-founder and lead developer.
 - [Pairo](https://getpairo.app): a couples PWA whose palette shifts through the year, driven by an OKLCH seasonal colour engine ([source](https://github.com/tigerweirdo/pairo-site)).
 - [HOODOO](https://wearehoodoo.com): guitar pickguards for a gallery wall, with a React Three Fiber 3D configurator.
-- [FORM/FORM](https://www.instagram.com/formformstudio): a self-learning generative video system that renders, publishes and scores its own work twice a day ([source](https://github.com/tigerweirdo/formform)).
+- [Unset](https://www.instagram.com/unset.work/): a self-learning generative video system that renders, publishes and scores its own work twice a day ([source](https://github.com/tigerweirdo/formform)).
 - [SITEMENDO](https://sitemendo.com): a repair shop for websites ([source](https://github.com/tigerweirdo/sitemendo)).
 
 Open to freelance work with agencies and teams, remote or in Berlin.
